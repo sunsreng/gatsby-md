@@ -28,7 +28,7 @@ size
 }
 }
 }
-}
+
 
 {
 allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {
